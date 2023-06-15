@@ -1,2 +1,2 @@
-# CapstoneProject2
+# Airbnb Analysis in Bangkok
 Airbnb Listings Bangkok Analysis
